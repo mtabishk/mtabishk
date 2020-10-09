@@ -25,7 +25,8 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width=24px src="https://www.google.com/imgres?imgurl=https%3A%2F%2Faccess.redhat.com%2Fwebassets%2Favalon%2Fg%2Fshadowman-200.png&imgrefurl=https%3A%2F%2Faccess.redhat.com%2F&tbnid=6jM4snnm_D9WWM&vet=12ahUKEwjy2oSX56fsAhWyg-YKHf_4CCQQMygGegUIARDZAQ..i&docid=A6tsL-PIubo09M&w=200&h=200&q=redhat&ved=2ahUKEwjy2oSX56fsAhWyg-YKHf_4CCQQMygGegUIARDZAQ"></code>
+<code><img width=24px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQglvU70-Wa9DPLuQM9o39wlR2Q6epRxqNN_Q&usqp=CAU"></code>
+<code><img width=24px src="https://www.citypng.com/public/uploads/preview/-11596297710hgpzrfojz4.png"></code>
 
 <br />
 <br />
