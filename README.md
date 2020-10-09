@@ -69,12 +69,12 @@
 
 </details>
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="mtabishk's GitHub Stats" src="https://github-readme-stats.mtabishk.vercel.app/api?username=mtabishk&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 
 [instagram]: https://instagram.com/_mtabishk_
