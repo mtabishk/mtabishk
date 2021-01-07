@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=mtabishk.com&style=for-the-badge&url=https%3A%2F%2Fmtabishk.com)](https://www.linkedin.com/in/mtabishk/)
 
-## I'm a CS Undergrad | Learner at ARTH - The School of Technologies | Intern @LinuxWorld India
+## I'm a CS Undergrad | Software Developer
 
 - 🔭 I am a technology enthusiast, I love to explore and learn the latest technologies like Artificial Intelligence, DevOps , Cloud Computing, etc
 - 🌱 I’m currently learning everything 🤣
