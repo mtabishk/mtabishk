@@ -4,9 +4,9 @@
 
 ## I'm a CS Undergrad | Software Developer
 
-- 🔭 I am a technology enthusiast, I love to explore and learn the latest technologies like Artificial Intelligence, DevOps , Cloud Computing, etc
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 I am a technology enthusiast, I love to explore and learn the latest technologies like Artificial Intelligence, DevOps , BigData, and Cloud Computing, etc
+- 🌱 I’m currently learning everything 
+- 🥅 2021 Goals: Create some Projects and Contribute more to Open Source world.
 - ⚡ Fun fact: I love to listen to music and travel.
 
 ### Connect with me:
@@ -34,7 +34,10 @@
 
 ### 📕 Latest Blog Posts
 
+## Medium: (https://mtabishkhanday.medium.com/)
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Managing and Deploying Webserver/App using Jenkins and Kubernetes using Jenkins coding file ( called as Jenkins file)](https://www.linkedin.com/pulse/devops-assembly-lines-task-06-managing-deploying-using-khanday/?trackingId=aQpCq%2BQsQSmunVUl6TmUAw%3D%3D)
 - [Auto Rolling-update in K8s using Dynamic Jenkins Cluster](https://www.linkedin.com/pulse/devops-assembly-lines-task-04-auto-rolling-update-k8s-khanday/)
 - [Mask Detection model by Mask RCNN-Neural Network for COVID19.](https://www.linkedin.com/pulse/mask-detection-model-rcnn-neural-network-covid19-khanday/)
