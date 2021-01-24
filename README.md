@@ -6,7 +6,7 @@
 
 - 🔭 I am a technology enthusiast, I love to explore and learn the latest technologies like Artificial Intelligence, DevOps , BigData, and Cloud Computing, etc
 - 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: Create some Projects and Contribute more to Open Source world.
+- 🥅 2021 Goals: Create some Projects and Contribute more to Open Source.
 - ⚡ Fun fact: I love to listen to music and travel.
 
 ### Connect with me:
