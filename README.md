@@ -1,4 +1,5 @@
-### Hi there, I'm Tabish. 👋
+<h1 align="center">Hi 👋, I'm Muhammad Tabish </h1>
+<h3 align="center">A passionate FullStack Developer </h3>
 
 [![Website](https://img.shields.io/website?label=mtabishk.com&style=for-the-badge&url=https%3A%2F%2Fmtabishk.com)](https://www.linkedin.com/in/mtabishk/)
 
