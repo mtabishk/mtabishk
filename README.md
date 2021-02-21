@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammad Tabish </h1>
+## Hello, I'm [Muhammad Tabish!](https://www.linkedin.com/in/mtabishk/) 👋
 
-[![Website](https://img.shields.io/website?label=mtabishk.com&style=for-the-badge&url=https%3A%2F%2Fmtabishk.com)](https://www.linkedin.com/in/mtabishk/)
-
-## I'm a CS Undergrad | Software Developer
+### I'm a CS Undergrad | Software Developer
 
 - 🔭 I am a technology enthusiast, I love to explore and learn the latest technologies like Artificial Intelligence, DevOps , BigData, and Cloud Computing, etc
 - 🌱 I’m currently learning everything 
@@ -10,9 +8,9 @@
 - ⚡ Fun fact: I love to listen to music and travel.
 
 ### Connect with me:
-
+[<img align="left" alt="mtabishk | GitHub" width="22px" src="https://icons8.com/icon/106564/github" />][github]
 [<img align="left" alt="mtabishk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mtabishk | Instagram" width="22px" src="https://img.icons8.com/android/24/000000/twitter.png" />][twitter]
+[<img align="left" alt="mtabishk | Twitter" width="22px" src="https://img.icons8.com/android/24/000000/twitter.png" />][twitter]
 [<img align="left" alt="mtabishk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -70,4 +68,4 @@
 [instagram]: https://www.instagram.com/m_tabishhh/
 [linkedin]: https://linkedin.com/in/mtabishk
 [twitter]: https://twitter.com/_mtabishk
-
+[github]: https://github.com/mtabishk
