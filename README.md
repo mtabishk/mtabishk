@@ -56,14 +56,12 @@
   ### Show some ❤️ by starring some of the repositories!
 
 
-</details>
-
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-
-[!Tabish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtabishk)](https://github.com/mtabishk/github-readme-stats)
-
-</details> -->
+<a href="https://github.com/mtabishk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtabishk&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/mtabishk">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mtabishk&show_icons=true&theme=light&line_height=27" alt="Tabish's github stats"/>
+</a>
 
 
 [instagram]: https://www.instagram.com/m_tabishhh/
