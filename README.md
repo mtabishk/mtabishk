@@ -27,6 +27,8 @@
 <code><img width=34px src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4"></code>
 <code><img width=34px src="https://avatars.githubusercontent.com/u/33972111?s=200&v=4"></code>
 <code><img width=34px src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4"></code>
+<code><img width=34px src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
+<code><img width=34px src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4"></code>
 
 <br />
 <br />
@@ -61,6 +63,6 @@
 </details> -->
 
 
-[instagram]: https://instagram.com/_mtabishk_
+[instagram]: https://www.instagram.com/m_tabishhh/
 [linkedin]: https://linkedin.com/in/mtabishk
 
