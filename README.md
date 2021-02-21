@@ -29,6 +29,9 @@
 <code><img width=34px src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4"></code>
 <code><img width=34px src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
 <code><img width=34px src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4"></code>
+<code><img width=34px src="https://avatars.githubusercontent.com/u/792337?s=200&v=4"></code>
+<code><img width=34px src="https://avatars.githubusercontent.com/u/107424?s=200&v=4"></code>
+
 
 <br />
 <br />
