@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to listen to music and travel.
 
 ### Connect with me:
-[<img align="left" alt="mtabishk | GitHub" width="22px" src="https://icons8.com/icon/106564/github" />][github]
+[<img align="left" alt="mtabishk | GitHub" width="22px" src="https://img.icons8.com/material-sharp/24/000000/github.png" />][github]
 [<img align="left" alt="mtabishk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mtabishk | Twitter" width="22px" src="https://img.icons8.com/android/24/000000/twitter.png" />][twitter]
 [<img align="left" alt="mtabishk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -53,6 +53,7 @@
 
 ---
   
+  ### Show some ❤️ by starring some of the repositories!
 
 
 </details>
@@ -60,7 +61,7 @@
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mtabishk's GitHub Stats" src="https://github-readme-stats.mtabishk.vercel.app/api?username=mtabishk&show_icons=true&hide_border=true" />
+[!Tabish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtabishk)](https://github.com/mtabishk/github-readme-stats)
 
 </details> -->
 
