@@ -25,6 +25,8 @@
 <code><img width=34px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img width=34px src="https://avatars.githubusercontent.com/u/3299148?s=200&v=4"></code>
 <code><img width=34px src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4"></code>
+<code><img width=34px src="https://avatars.githubusercontent.com/u/33972111?s=200&v=4"></code>
+<code><img width=34px src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4"></code>
 
 <br />
 <br />
