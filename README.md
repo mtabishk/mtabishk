@@ -51,8 +51,7 @@
 - [AWS Drives NETFLIX FORWARD!](https://www.linkedin.com/pulse/aws-drives-netflix-forward-muhammad-tabish-khanday/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.linkedin.com/in/mtabishk/detail/recent-activity/posts/)
-
+➡️ [more blog posts...](https://mtabishkhanday.medium.com/)
 ---
   
   ### Show some ❤️ by starring some of the repositories!
