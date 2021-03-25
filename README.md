@@ -40,7 +40,7 @@
 
 ### 📕 Latest Blog Posts
 
-## Medium: (https://mtabishkhanday.medium.com/)
+## Medium: (https://mtabishk999.medium.com/)
 
 <!-- BLOG-POST-LIST:START -->
 - [Running Kubernetes using Minikube on AWS Cloud](https://medium.com/faun/running-kubernetes-using-minikube-on-aws-cloud-f0d9ecad7be7)
