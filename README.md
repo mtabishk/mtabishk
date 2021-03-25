@@ -43,11 +43,10 @@
 ## Medium: (https://mtabishk999.medium.com/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Kubernetes using Minikube on AWS Cloud](https://medium.com/faun/running-kubernetes-using-minikube-on-aws-cloud-f0d9ecad7be7)
+- [Running Kubernetes using Minikube on AWS Cloud](https://mtabishk999.medium.com/running-kubernetes-using-minikube-cluster-on-the-aws-cloud-4259df916a07)
 - [Running GUI Applications in Docker — Firefox, Nautilus File Manager.](https://medium.com/swlh/running-gui-applications-in-docker-firefox-nautilus-file-manger-b254d0b68697)
 - [Managing and Deploying Webserver/App using Jenkins and Kubernetes using Jenkins coding file ( called as Jenkins file)](https://www.linkedin.com/pulse/devops-assembly-lines-task-06-managing-deploying-using-khanday/?trackingId=aQpCq%2BQsQSmunVUl6TmUAw%3D%3D)
 - [Auto Rolling-update in K8s using Dynamic Jenkins Cluster](https://www.linkedin.com/pulse/devops-assembly-lines-task-04-auto-rolling-update-k8s-khanday/)
-- [Creating a Web Portal using WordPress and MySQL Database on AWS Cloud with VPC NAT Gateway](linkedin.com/pulse/creating-web-portal-using-wordpress-mysql-database-aws-khanday-1f/)
 - [AWS Drives NETFLIX FORWARD!](https://www.linkedin.com/pulse/aws-drives-netflix-forward-muhammad-tabish-khanday/)
 <!-- BLOG-POST-LIST:END -->
 
