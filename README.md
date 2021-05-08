@@ -56,12 +56,8 @@
   ### Show some ❤️ by starring some of the repositories!
 
 
-<a href="https://github.com/mtabishk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtabishk&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/mtabishk">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mtabishk&show_icons=true&theme=light&line_height=27" alt="Tabish's github stats"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtabishk&layout=compact&theme=dark)](https://github.com/mtabishk/github-readme-stats)
+![Tabish's github stats](https://github-readme-stats.vercel.app/api?username=mtabishk&show_icons=true&theme=dark&include_all_commits=true&hide=issues)
 
 
 [instagram]: https://www.instagram.com/m_tabishhh/
