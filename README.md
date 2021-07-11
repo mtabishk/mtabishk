@@ -1,4 +1,4 @@
-## Hello, I'm [Muhammad Tabish!](https://www.linkedin.com/in/mtabishk/) 👋
+## Hello, I'm [Tabish!](https://www.linkedin.com/in/mtabishk/) 👋
 
 ### I'm a CS Undergrad | Software Developer
 
