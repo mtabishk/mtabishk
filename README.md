@@ -1,8 +1,8 @@
 ## Hi there, I'm Tabish 👋
 
 
-- 🎯 I’m currently learning everything 
-- 💻 2021 Goals: Create some cool Projects and Contribute more to Open Source.
+- 🎯 I’m currently learning everything. 
+- 💻 2021 Goals: Create some cool projects and contribute more to Open Source.
 - 📫 How to reach me: https://linkedin.com/in/mtabishk
 
 <br>
