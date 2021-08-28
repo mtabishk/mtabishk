@@ -1,19 +1,15 @@
-## Hello, I'm [Tabish!](https://www.linkedin.com/in/mtabishk/) 👋
+## Hi there, I'm Tabish 👋
 
-### I'm a CS Undergrad | Software Developer
 
-- 🔭 I am a technology enthusiast, I love to explore and learn the latest technologies like Artificial Intelligence, DevOps , BigData, and Cloud Computing, etc
-- 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: Create some Projects and Contribute more to Open Source.
-- ⚡ Fun fact: I love to listen to music and travel.
+- 🎯 I’m currently learning everything 
+- 💻 2021 Goals: Create some cool Projects and Contribute more to Open Source.
+- 📫 How to reach me: https://linkedin.com/in/mtabishk
 
-### Connect with me:
-[<img align="left" alt="mtabishk | GitHub" width="22px" src="https://img.icons8.com/material-sharp/24/000000/github.png" />][github]
-[<img align="left" alt="mtabishk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mtabishk | Twitter" width="22px" src="https://img.icons8.com/android/24/000000/twitter.png" />][twitter]
-[<img align="left" alt="mtabishk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br>
 
-<br />
+![Tabish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtabishk&show_icons=true&hide_border=true)
+
+#### Show some ❤️ by following me and starring some of the repositories!
 
 ### Languages & Tools
 
@@ -62,14 +58,5 @@ https://user-images.githubusercontent.com/61789893/130829044-688e8c9b-eb7d-4740-
 ➡️ [more blog posts...](https://mtabishk999.medium.com/)
 ---
   
-  ### Show some ❤️ by starring some of the repositories!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtabishk&layout=compact&theme=dark)](https://github.com/mtabishk/github-readme-stats)
-![Tabish's github stats](https://github-readme-stats.vercel.app/api?username=mtabishk&show_icons=true&theme=dark&include_all_commits=true&hide=issues)
-
-
-[instagram]: https://www.instagram.com/m_tabishhh/
-[linkedin]: https://linkedin.com/in/mtabishk
-[twitter]: https://twitter.com/_mtabishk
-[github]: https://github.com/mtabishk
