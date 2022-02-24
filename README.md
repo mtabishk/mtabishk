@@ -2,7 +2,7 @@
 
 
 - 🎯 I’m currently learning everything. 
-- 💻 2021 Goals: Create some cool projects and contribute more to Open Source.
+- 💻 2022 Goals: Create some cool projects and contribute more to Open Source.
 - 📫 How to reach me: https://linktr.ee/mtabishk
 
 <br>
