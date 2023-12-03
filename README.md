@@ -1,15 +1,11 @@
-## Hi there, I'm Tabish 👋
+## Hi there 👋
 
-
+- 💁‍♂️ Hi there! I'm Muhammad Tabish Khanday, a passionate Full Stack Developer with a knack for building robust and innovative web and mobile applications.
 - 🎯 I’m currently learning everything. 
-- 💻 2023 Goals: Create some cool projects and contribute more to Open Source.
+- 💻 2024 Goals: Create some cool projects and contribute more to Open Source.
 - 📫 How to reach me: https://linktr.ee/mtabishk
 
 <br>
-
-![Tabish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtabishk&show_icons=true&hide_border=true)
-
-#### Show some ❤️ by following me and starring some of the repositories!
 
 ### Languages & Tools
 
@@ -32,6 +28,11 @@
 
 <br />
 <br />
+
+![Tabish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtabishk&show_icons=true&hide_border=true)
+
+
+#### Show some ❤️ by following me and starring some of the repositories!
 
 
 
