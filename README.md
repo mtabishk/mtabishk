@@ -29,7 +29,7 @@
 <br />
 <br />
 
-![Tabish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtabishk&show_icons=true&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtabishk&show_icons=true&hide=issues,contribs&rank_icon=github)
 
 
 #### Show some ❤️ by following me and starring some of the repositories!
