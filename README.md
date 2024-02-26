@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💁‍♂️ Hi there! I'm Muhammad Tabish Khanday, a passionate Full Stack Developer with a knack for building robust and innovative web and mobile applications.
+- 💁‍♂️ Hi there! I'm Tabish, a passionate Software Developer with a knack for building robust and innovative web and mobile applications.
 - 🎯 I’m currently learning everything. 
 - 💻 2024 Goals: Create some cool projects and contribute more to Open Source.
 - 📫 How to reach me: https://linktr.ee/mtabishk
