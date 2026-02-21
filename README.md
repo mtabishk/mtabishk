@@ -1,64 +1,87 @@
-## Hi there 👋
+<!-- Header -->
+<div align="center">
 
-- 💁‍♂️ Hi there! I'm Tabish, a passionate Software Developer with a knack for building robust and innovative web and mobile applications.
-- 🎯 I’m currently learning everything. 
-- 💻 2024 Goals: Create some cool projects and contribute more to Open Source.
-- 📫 How to reach me: https://linktr.ee/mtabishk
+```
+╔═══════════════════════════════════════════════════════╗
+║  building products at the intersection of             ║
+║  mobile • web • blockchain                            ║
+╚═══════════════════════════════════════════════════════╝
+```
 
-<br>
+</div>
 
-### Languages & Tools
-
-<code><img width=34px src="https://repository-images.githubusercontent.com/249747965/36432d80-6e51-11ea-8125-3b459ef6adc4"></code>
-<code><img width=34px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width=34px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img width=34px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img width=34px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img width=34px src="https://avatars.githubusercontent.com/u/3299148?s=200&v=4"></code>
-<code><img width=34px src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4"></code>
-<code><img width=34px src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4"></code>
-<code><img width=34px src="https://avatars.githubusercontent.com/u/33972111?s=200&v=4"></code>
-<code><img width=34px src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4"></code>
-<code><img width=34px src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
-<code><img width=34px src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4"></code>
-<code><img width=34px src="https://avatars.githubusercontent.com/u/792337?s=200&v=4"></code>
-<code><img width=34px src="https://avatars.githubusercontent.com/u/107424?s=200&v=4"></code>
-<code><img width=34px src="https://avatars.githubusercontent.com/u/375663?s=200&v=4"></code>
-
-
-<br />
-<br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtabishk&show_icons=true&hide=issues,contribs&rank_icon=github)
-
-
-#### Show some ❤️ by following me and starring some of the repositories!
-
-
-
-
-### 📕 Docker Mobile App
-https://dockermobile.tech/
-
-https://user-images.githubusercontent.com/61789893/130829044-688e8c9b-eb7d-4740-abc4-f26a79dc205f.mp4
-
-[Get it now](https://play.google.com/store/apps/details?id=com.mtabishk.docker_mobile_app)
-
-
-### 📕 Latest Blog Posts
-
-## Medium: (https://mtabishk999.medium.com/)
-
-<!-- BLOG-POST-LIST:START -->
-- [Running Kubernetes using Minikube on AWS Cloud](https://mtabishk999.medium.com/running-kubernetes-using-minikube-cluster-on-the-aws-cloud-4259df916a07)
-- [Running GUI Applications in Docker — Firefox, Nautilus File Manager.](https://medium.com/swlh/running-gui-applications-in-docker-firefox-nautilus-file-manger-b254d0b68697)
-- [Managing and Deploying Webserver/App using Jenkins and Kubernetes using Jenkins coding file ( called as Jenkins file)](https://www.linkedin.com/pulse/devops-assembly-lines-task-06-managing-deploying-using-khanday/?trackingId=aQpCq%2BQsQSmunVUl6TmUAw%3D%3D)
-- [Auto Rolling-update in K8s using Dynamic Jenkins Cluster](https://www.linkedin.com/pulse/devops-assembly-lines-task-04-auto-rolling-update-k8s-khanday/)
-- [AWS Drives NETFLIX FORWARD!](https://www.linkedin.com/pulse/aws-drives-netflix-forward-muhammad-tabish-khanday/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://mtabishk999.medium.com/)
 ---
-  
 
+## `~/whoami`
 
+```yaml
+role: Full Stack Developer (Mobile & Web)
+focus:
+  - Cross-platform mobile apps (Android + iOS)
+  - Modern web applications
+  - Open source + side projects
+2026_goals:
+  - Ship more OSS
+  - Go deeper on blockchain infra
+  - Build things that matter
+```
+
+---
+
+## `~/stack`
+
+### 🌐 Web
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+### ⚙️ Languages & Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### 🔧 Infra & Tools
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## `~/stats`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mtabishk&theme=transparent&hide_border=true&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+/* currently building · always learning · open to collabs */
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=mtabishk&style=flat-square&color=00FFA3&label=profile+views)
+
+</div>
